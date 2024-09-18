@@ -62,6 +62,6 @@ public class Main {
 
         //Array Exercise  2
         int[] array1 = {1,4,67,22};
-        System.out.println(Arrays.toString(ArrayExercise2.removeElement(array1, 4)));;
+        System.out.println(Arrays.toString(ArrayExercise2.removeElement(array1, 4)));
     }
 }
